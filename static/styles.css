@@ -1,0 +1,8 @@
+.disappear {
+    display: none;
+}
+
+.msgSpan {
+    display: block;
+    font-size: .3em;
+}
